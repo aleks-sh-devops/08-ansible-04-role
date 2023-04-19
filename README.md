@@ -1,10 +1,10 @@
 # Домашнее задание к занятию "8.4 Работа с Roles"
 
 
-1. Создайте два пустых публичных репозитория в любом своём проекте: vector-role и lighthouse-role.
+1. Создайте два пустых публичных репозитория в любом своём проекте: vector-role и lighthouse-role.  
 
-https://github.com/aleks-sh-devops/vector-role
-https://github.com/aleks-sh-devops/lighthouse-role
+https://github.com/aleks-sh-devops/vector-role  
+https://github.com/aleks-sh-devops/lighthouse-role  
 
 2. Добавьте публичную часть своего ключа к своему профилю в github.
 ![key](pic1.png)  
