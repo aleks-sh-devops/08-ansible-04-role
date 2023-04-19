@@ -12,7 +12,6 @@ https://github.com/aleks-sh-devops/lighthouse-role
 ![key](pic1.png)  
 
 ## Основная часть
-
 Наша основная цель - разбить наш playbook на отдельные roles. Задача: сделать roles для clickhouse, vector и lighthouse и написать playbook для использования этих ролей. Ожидаемый результат: существуют три ваших репозитория: два с roles и один с playbook.
 
 ## Данный плейбук подтягивает роли с помощью requirements clickhouse, vector, lighthouse и производит их установку
